@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-29",
+  "platform": "Windows",
+  "full_suite": {
+    "tests": 97,
+    "failures": 0,
+    "skipped": 0,
+    "seconds": 79.333
+  },
+  "checks": {
+    "read_only_plan": true,
+    "corrupted_wheel_rejected_before_writes": true,
+    "bundled_code_and_resources_match_source": true,
+    "copied_setup_offline_install": true,
+    "manual_deploy_and_auto_switch": true,
+    "unconfigured_client_uses_runtime_binding": true,
+    "deployed_launcher_survives_setup_relocation": true,
+    "global_setup_synchronized_with_backup": true,
+    "user_runtime_outside_checkout": true,
+    "setup_manual_auto_skill_validation": true,
+    "powershell_syntax": true,
+    "shell_syntax": true
+  },
+  "not_executed": [
+    "Linux native install",
+    "Python download/install on a machine without Python",
+    "optional PDF dependency download",
+    "live reasoning provider"
+  ],
+  "wheels": {
+    "ljh-research-controller": {
+      "filename": "ljh_research_controller-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "4349d122a8ba3bd2fe38a3096f643b398015f909779648a847ca1402b9108ddb"
+    },
+    "ljh-research-core": {
+      "filename": "ljh_research_core-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "36b11e6f412c9acc0fb30337b848141f006dbc08bd8129662bd4df6a7c7c7a17"
+    },
+    "ljh-research-local": {
+      "filename": "ljh_research_local-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "2d9bbc93cec3a5b12144f8ca9af16e62b319a270caf4c1380edf3ca0a9d4b9d8"
+    },
+    "ljh-research-panel": {
+      "filename": "ljh_research_panel-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "7dfb2d1e9eb9c2f93bbc98876bc1bfe3b896ff85fc761aed2dab36cd1be11c68"
+    }
+  },
+  "setup_zip_sha256": "ae962ff6f1978ebd302314becb6377eb23d8d0c3bfd3617361482a7d89af4414",
+  "retained_history_archive_sha256": "128c8fa1f7e61f6edd82ec2648f56d5cd3deaf7fbfd3e048b91db08d93c4207c"
+}

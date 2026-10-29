@@ -1,0 +1,13 @@
+name: Pending framework adoption
+description: Validated research points awaiting a user decision about the primary framework.
+filter:
+  and:
+    - jexl: resource.properties.type == 'research-point'
+    - jexl: resource.properties.status == 'validated'
+    - jexl: resource.properties.framework_adoption == 'pending_decision'
+select:
+  - title
+  - path
+  - properties.framework_version
+  - properties.updated
+sort: properties.updated DESC

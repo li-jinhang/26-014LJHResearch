@@ -1,0 +1,6 @@
+name: Paper notes
+description: Imported paper knowledge notes.
+filter:
+  jexl: "resource.properties.type == 'paper'"
+select: [title, path, properties.method, properties.paper_id, backlink-count]
+sort: backlink-count DESC

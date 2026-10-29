@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ljh-research-core"
+version = "0.1.0"
+description = "Research operations, task contracts and workspace lifecycle"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+papers = ["pypdf>=5,<7"]
+
+[project.scripts]
+ljh-research = "ljh_research.cli:main"
+ljh-research-setup = "ljh_research.setup.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ljh_research = ["resources/templates/**/*", "resources/*.json", "resources/research/*.md", "resources/skill_variants/**/*"]

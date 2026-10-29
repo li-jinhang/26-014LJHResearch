@@ -1,0 +1,4 @@
+interface:
+  display_name: "LJH Research Setup"
+  short_description: "准备环境并将 Manual 或 Auto 科研能力部署到单个项目，统一管理文档目录"
+  default_prompt: "使用 $ljh-research-setup 为指定项目选择并部署 Manual 或 Auto，将科研记忆保存到 ljh research docs。"

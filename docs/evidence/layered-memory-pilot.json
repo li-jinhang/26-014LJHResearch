@@ -1,0 +1,467 @@
+{
+  "pilot_root": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified",
+  "source_root": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research",
+  "source_file_count": 317,
+  "actual_source_unchanged": true,
+  "source_manifest_sha256": "58120dc91774b07388b0f8b4fe3654727265d46e2ef0039f64bd27b11d34a706",
+  "objects": [
+    {
+      "id": "PAPER-0001",
+      "existing": false,
+      "record": "ljh research docs/1论文/知识提炼/论文卡片/PAPER-0001/摘要.md",
+      "extraction": {
+        "id": "PAPER-0001",
+        "changed": true,
+        "points": 11,
+        "mode": "extractive",
+        "coverage": "partial",
+        "derived_views": {
+          "state": "current"
+        }
+      }
+    },
+    {
+      "id": "PAPER-0002",
+      "existing": false,
+      "record": "ljh research docs/1论文/知识提炼/论文卡片/PAPER-0002/摘要.md",
+      "extraction": {
+        "id": "PAPER-0002",
+        "changed": true,
+        "points": 9,
+        "mode": "extractive",
+        "coverage": "partial",
+        "derived_views": {
+          "state": "current"
+        }
+      }
+    },
+    {
+      "id": "PRE-002",
+      "existing": false,
+      "record": "ljh research docs/3实验/知识提炼/单项/PRE-002/摘要.md",
+      "extraction": {
+        "id": "PRE-002",
+        "changed": true,
+        "points": 16,
+        "mode": "extractive",
+        "coverage": "partial",
+        "derived_views": {
+          "state": "current"
+        }
+      }
+    },
+    {
+      "id": "EXP-007",
+      "existing": false,
+      "record": "ljh research docs/3实验/知识提炼/单项/EXP-007/摘要.md",
+      "extraction": {
+        "id": "EXP-007",
+        "changed": true,
+        "points": 16,
+        "mode": "extractive",
+        "coverage": "partial",
+        "derived_views": {
+          "state": "current"
+        }
+      }
+    },
+    {
+      "id": "RD-0001",
+      "existing": false,
+      "record": "ljh research docs/5经验/知识提炼/单项/RD-0001/摘要.md",
+      "extraction": {
+        "id": "RD-0001",
+        "changed": true,
+        "points": 4,
+        "mode": "extractive",
+        "coverage": "partial",
+        "derived_views": {
+          "state": "current"
+        }
+      }
+    },
+    {
+      "id": "RD-0002",
+      "existing": false,
+      "record": "ljh research docs/5经验/知识提炼/单项/RD-0002/摘要.md",
+      "extraction": {
+        "id": "RD-0002",
+        "changed": true,
+        "points": 7,
+        "mode": "extractive",
+        "coverage": "partial",
+        "derived_views": {
+          "state": "current"
+        }
+      }
+    }
+  ],
+  "copied_samples": [
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\1论文\\计算机\\多模态推荐系统\\源文件库\\Reinforced-Multi-Teacher-Selection-for-Knowledge-Distillation-AAAI2021.pdf",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-1\\original.pdf",
+      "sha256": "76e254fe5c13aa0b5a26c1cb1318945c1a02f51af501a052fd2e2113c7a5b280"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\0知识库\\计算机\\多模态推荐系统\\知识库\\18-RL-KD论文\\01-论文问题与总体架构.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-1\\01-论文问题与总体架构.md",
+      "sha256": "ccb6f5e5edf42c75dc08b0112abb1dea0d5056040248dba2278dff02b3f0c6a1"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\0知识库\\计算机\\多模态推荐系统\\知识库\\18-RL-KD论文\\02-方法与模型.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-1\\02-方法与模型.md",
+      "sha256": "a86d4ce094415c53fc4e9fb7f28b97914c2f36b58816e27fcb7df260803d4660"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\0知识库\\计算机\\多模态推荐系统\\知识库\\18-RL-KD论文\\03-关键机制与细节.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-1\\03-关键机制与细节.md",
+      "sha256": "65379fd5a2102a9d5368c324e0e0e478dda3a86855a9a69760f924b9156b8c27"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\1论文\\计算机\\多模态推荐系统\\源文件库\\Automated-Curriculum-Learning-for-Neural-Networks-ICML2017.pdf",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-2\\original.pdf",
+      "sha256": "ae2c83b04ceb61e45224e8c3fc26ec7ef1f7cf22398caa3fff3256b7d15ea7c1"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\0知识库\\计算机\\多模态推荐系统\\知识库\\19-AutomatedCurriculumLearning论文\\01-论文问题与总体架构.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-2\\01-论文问题与总体架构.md",
+      "sha256": "b90cf3885c5984d86292d782856bdedfcc58247e157aaf956b3e55166eabb930"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\0知识库\\计算机\\多模态推荐系统\\知识库\\19-AutomatedCurriculumLearning论文\\02-方法与模型.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-2\\02-方法与模型.md",
+      "sha256": "778a8de750d16f5d9ae1daf386230b79d0071ff0b5fd5d601a3d7a2c42e267b4"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\0知识库\\计算机\\多模态推荐系统\\知识库\\19-AutomatedCurriculumLearning论文\\03-关键机制与细节.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\paper-2\\03-关键机制与细节.md",
+      "sha256": "fad3605f49866aa0e95f27c19df9ec126d09ba9c37eacba7cfdeba2ba603d010"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\3实验\\PRE-002-Oracle上限诊断-样本级教师加权天花板.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\experiments\\PRE-002-Oracle上限诊断-样本级教师加权天花板.md",
+      "sha256": "b08f96e773dbc14a9ec736844d8f5f8c5aa29949040168e9909b3c22cfcc06b0"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\3实验\\EXP-007-DDKDRLT-reliable-consensus-and-complementary-residual-ablation.md",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\experiments\\EXP-007-DDKDRLT-reliable-consensus-and-complementary-residual-ablation.md",
+      "sha256": "f2217872e78955fa9e4936da1f26b1f65077690ea19300eb36b259719d28146e"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\03研发经验.md",
+      "source_section": "PGLKD策略奖励平衡诊断",
+      "source_sha256": "fe5f504d761c2d4b99732a2288d34bb3e48904c54d870454cab9821d17125df9",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\experience-1.md",
+      "copy_sha256": "b2315c7e7daa6d6a825863e7bcae0361dac9bda4fe36798c224242fe6918e693"
+    },
+    {
+      "source": "D:\\_Projects\\26-001DistillingRecommendation\\ljh research\\03研发经验.md",
+      "source_section": "随机种子硬性控制约束",
+      "source_sha256": "fe5f504d761c2d4b99732a2288d34bb3e48904c54d870454cab9821d17125df9",
+      "copy": "D:\\_Projects\\26-014LjhResearch\\.local\\layered-memory-pilot-20261029-verified\\fixtures\\experience-2.md",
+      "copy_sha256": "6500f557e3efdf93638851a7d30da94d595104114cd70e6b797a60284c6803b7"
+    }
+  ],
+  "searches": [
+    {
+      "request": {
+        "query": "teacher selection delayed reward",
+        "purpose": "innovation",
+        "kind": "paper"
+      },
+      "response": {
+        "coverage": "registered_objects_only",
+        "registered_objects": 6,
+        "matched_objects": 2,
+        "hits": [
+          {
+            "id": "PAPER-0001",
+            "kind": "paper",
+            "title": "RL-KD论文",
+            "topics": [
+              "知识蒸馏",
+              "强化学习"
+            ],
+            "freshness": "current",
+            "read_more": {
+              "method": "memory.read",
+              "id": "PAPER-0001"
+            },
+            "point": {
+              "point_id": "K-c08e23d0f70e45",
+              "text": "论文定义三类延迟回报：`-学生 CE`；`-(学生 CE + KD loss)`；以及以前两者为基础并乘入开发集准确率的回报。回报在一个 batch/episode 的学生更新后获得，不是逐动作即时奖励。",
+              "aspect": "innovation",
+              "conditions": [
+                "现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。"
+              ],
+              "evidence_type": "reading_note"
+            }
+          },
+          {
+            "id": "PAPER-0002",
+            "kind": "paper",
+            "title": "AutomatedCurriculumLearning论文",
+            "topics": [
+              "课程学习",
+              "强化学习"
+            ],
+            "freshness": "current",
+            "read_more": {
+              "method": "memory.read",
+              "id": "PAPER-0002"
+            },
+            "point": {
+              "point_id": "K-5fbdb5cdbcb190",
+              "text": "回报设计强调“变化量”而不是损失绝对值；而且评估目标使用不参与训练或 reward 计算的独立样本。这避免高损失任务因噪声被长期误判为有价值，也避免策略忘记早期任务。",
+              "aspect": "innovation",
+              "conditions": [
+                "现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。"
+              ],
+              "evidence_type": "reading_note"
+            }
+          }
+        ],
+        "warning": "No hit is not proof of no prior research. Stale/partial summaries require evidence drill-down; ranking is lexical relevance, not scientific quality.",
+        "omitted_hits": 0,
+        "topic_entrypoints": [
+          "延迟收益",
+          "教师路由",
+          "奖励",
+          "强化学习",
+          "知识蒸馏"
+        ],
+        "budget_chars": 4000,
+        "used_chars": 1258
+      }
+    },
+    {
+      "request": {
+        "query": "奖励塌缩",
+        "purpose": "debug",
+        "kind": "experience"
+      },
+      "response": {
+        "coverage": "registered_objects_only",
+        "registered_objects": 6,
+        "matched_objects": 1,
+        "hits": [
+          {
+            "id": "RD-0001",
+            "kind": "experience",
+            "title": "PGLKD策略奖励平衡诊断",
+            "topics": [
+              "知识蒸馏",
+              "强化学习"
+            ],
+            "freshness": "current",
+            "read_more": {
+              "method": "memory.read",
+              "id": "RD-0001"
+            },
+            "point": {
+              "point_id": "K-a0c28e57d8a704",
+              "text": "- 观察：在 Baby seed=999、PGLGLOBAL/PGLLOCAL 双教师和原 StudentGCN/KD-BPR 主干下，新增 balanced_margin 奖励：按教师相对 pairwise margin 与学生困难度构造奖励，并做 batch/教师双重中心化。17 项单元测试通过，但完整训练在 epoch 27 前仍快速偏向 PGLGLOBAL（平均权重约 0.86，selected 约 0.89），验证 Recall@20 最高 0.0898，明显低于等权基线 0.1022。因此不采用该策略作为默认优化方向；保留实现和测试用于后续诊断，默认恢复 legacy 奖励。后续转向等权 listwise KD 候选。",
+              "aspect": "result",
+              "conditions": [
+                "现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。",
+                "- 背景：记录研发过程中的重要经验。"
+              ],
+              "evidence_type": "project_record"
+            }
+          }
+        ],
+        "warning": "No hit is not proof of no prior research. Stale/partial summaries require evidence drill-down; ranking is lexical relevance, not scientific quality.",
+        "omitted_hits": 0,
+        "topic_entrypoints": [
+          "奖励",
+          "强化学习",
+          "知识蒸馏",
+          "种子",
+          "等权"
+        ],
+        "budget_chars": 4000,
+        "used_chars": 1056
+      }
+    },
+    {
+      "request": {
+        "query": "随机种子 选择纪律",
+        "purpose": "experiment_design",
+        "kind": "experience"
+      },
+      "response": {
+        "coverage": "registered_objects_only",
+        "registered_objects": 6,
+        "matched_objects": 2,
+        "hits": [
+          {
+            "id": "RD-0002",
+            "kind": "experience",
+            "title": "随机种子硬性控制约束",
+            "topics": [
+              "实验纪律"
+            ],
+            "freshness": "current",
+            "read_more": {
+              "method": "memory.read",
+              "id": "RD-0002"
+            },
+            "point": {
+              "point_id": "K-6b69032958271a",
+              "text": "- 结论：仅在配置已冻结后，允许使用额外随机种子进行稳健性报告；其结果不得回流到超参数选择、模型筛选或改动方向。",
+              "aspect": "condition",
+              "conditions": [
+                "现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。",
+                "- 背景：PGLKD 完整链路已在固定实验设置下恢复到验证 Recall@20=0.1025、测试 Recall@20=0.1061，后续优化必须保证可归因。",
+                "- 问题：种子变化会同时改变采样、初始化与训练轨迹，若参与候选配置选择，会使跑分比较不可归因并形成选择偏差。"
+              ],
+              "evidence_type": "project_record"
+            }
+          },
+          {
+            "id": "RD-0001",
+            "kind": "experience",
+            "title": "PGLKD策略奖励平衡诊断",
+            "topics": [
+              "知识蒸馏",
+              "强化学习"
+            ],
+            "freshness": "current",
+            "read_more": {
+              "method": "memory.read",
+              "id": "RD-0001"
+            },
+            "point": {
+              "point_id": "K-a0c28e57d8a704",
+              "text": "- 观察：在 Baby seed=999、PGLGLOBAL/PGLLOCAL 双教师和原 StudentGCN/KD-BPR 主干下，新增 balanced_margin 奖励：按教师相对 pairwise margin 与学生困难度构造奖励，并做 batch/教师双重中心化。17 项单元测试通过，但完整训练在 epoch 27 前仍快速偏向 PGLGLOBAL（平均权重约 0.86，selected 约 0.89），验证 Recall@20 最高 0.0898，明显低于等权基线 0.1022。因此不采用该策略作为默认优化方向；保留实现和测试用于后续诊断，默认恢复 legacy 奖励。后续转向等权 listwise KD 候选。",
+              "aspect": "result",
+              "conditions": [
+                "现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。",
+                "- 背景：记录研发过程中的重要经验。"
+              ],
+              "evidence_type": "project_record"
+            }
+          }
+        ],
+        "warning": "No hit is not proof of no prior research. Stale/partial summaries require evidence drill-down; ranking is lexical relevance, not scientific quality.",
+        "omitted_hits": 0,
+        "topic_entrypoints": [
+          "实验纪律",
+          "种子",
+          "奖励",
+          "强化学习",
+          "知识蒸馏"
+        ],
+        "budget_chars": 4000,
+        "used_chars": 1585
+      }
+    },
+    {
+      "request": {
+        "query": "共识 互补 rho",
+        "purpose": "result_analysis",
+        "kind": "experiment"
+      },
+      "response": {
+        "coverage": "registered_objects_only",
+        "registered_objects": 6,
+        "matched_objects": 1,
+        "hits": [
+          {
+            "id": "EXP-007",
+            "kind": "experiment",
+            "title": "EXP-007-DDKDRLT-reliable-consensus-and-complementary-residual-ablation",
+            "topics": [
+              "多模态推荐系统",
+              "知识蒸馏",
+              "强化学习"
+            ],
+            "freshness": "current",
+            "read_more": {
+              "method": "memory.read",
+              "id": "EXP-007"
+            },
+            "point": {
+              "point_id": "K-a9b685bf0592a7",
+              "text": "不预设数值提升；要求 consensus-complementary 正常训练且不破坏 alternating optimization。",
+              "aspect": "result",
+              "conditions": [
+                "现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。",
+                "Baby；MSCA+DIGEST 冻结教师；64维学生；seed=999。",
+                "固定 DDKDRLE 学生、teacher bank、20维 policy state、meta buffer 和 reward；比较 kd_mode=selected_teacher 与 consensus_complementary，并做 gate/curriculum 单变量消融。"
+              ],
+              "evidence_type": "project_record"
+            }
+          }
+        ],
+        "warning": "No hit is not proof of no prior research. Stale/partial summaries require evidence drill-down; ranking is lexical relevance, not scientific quality.",
+        "omitted_hits": 0,
+        "topic_entrypoints": [
+          "可靠共识",
+          "互补",
+          "元学习",
+          "多模态推荐系统",
+          "奖励"
+        ],
+        "budget_chars": 4000,
+        "used_chars": 1045
+      }
+    }
+  ],
+  "drill_down": {
+    "topic": {
+      "level": "topic",
+      "topic": "强化学习",
+      "path": "ljh research docs/1论文/知识提炼/领域专题/强化学习.md",
+      "content": "# 强化学习\n\n<!-- ljh-memory-owned -->\n\n以下为有来源的提炼入口，保留来源性质和适用条件；未覆盖全部项目资料。\n\n## PAPER-0001 · RL-KD论文\n\n- 来源类型：paper；提取方式：extractive；新鲜度：current。\n- [architecture/reading_note] 冻结/预训练教师给出 soft label；学生同时学习硬标签与被选教师的蒸馏目标。每位教师对应一个二元选择 agent，样本级动作共同决定参与蒸馏的教师集合；学生表现再作为延迟回报更新选择策略。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。；任务是 GLUE 等 NLP 分类任务，输出是可融合的类别概率；其状态、回报和动作机制不能未经验证直接迁移到图推荐的 pairwise BPR 蒸馏。\n  - 证据入口：`PAPER-0001/K-4fab5235618cb5`。\n- [limitation/reading_note] 任务是 GLUE 等 NLP 分类任务，输出是可融合的类别概率；其状态、回报和动作机制不能未经验证直接迁移到图推荐的 pairwise BPR 蒸馏。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。；任务是 GLUE 等 NLP 分类任务，输出是可融合的类别概率；其状态、回报和动作机制不能未经验证直接迁移到图推荐的 pairwise BPR 蒸馏。\n  - 证据入口：`PAPER-0001/K-7ce102107b2ad9`。\n- [hypothesis/reading_note] 在 NLP 蒸馏中，多个教师对不同输入的优势不同；固定或等权融合会掩盖这种差异。论文把“本样本是否选第 k 位教师”建模为实例级强化学习。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。；任务是 GLUE 等 NLP 分类任务，输出是可融合的类别概率；其状态、回报和动作机制不能未经验证直接迁移到图推荐的 pairwise BPR 蒸馏。\n  - 证据入口：`PAPER-0001/K-93fb013b20a651`。\n- [architecture/reading_note] - 状态：为每个“样本—教师”组合拼接教师语义表示、教师预测类别分布、该教师对该样本的交叉熵损失，以及其他教师预测。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。\n  - 证据入口：`PAPER-0001/K-0a3998f6093a99`。\n- 按需展开：`memory.read id=PAPER-0001`。\n\n## PAPER-0002 · AutomatedCurriculumLearning论文\n\n- 来源类型：paper；提取方式：extractive；新鲜度：current。\n- [architecture/reading_note] 论文不蒸馏，而是在序列学习和课程学习中选择“下一批来自哪个任务分布”。其核心把课程调度视为随学生能力变化的非平稳多臂 bandit，而非寻找一个固定的最好任务。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。\n  - 证据入口：`PAPER-0002/K-4bb243233ff461`。\n- [architecture/reading_note] 每轮从一个任务臂采样 batch，计算学习进展回报，以 Exp3.S 更新任务分布；目标可以是所有任务总体表现或指定目标任务表现。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。\n  - 证据入口：`PAPER-0002/K-4e0b99a0fc7875`。\n- [architecture/reading_note] - 状态/历史：不使用高维深度状态，保留各任务的 reward 历史。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。\n  - 证据入口：`PAPER-0002/K-431607fa8cc7e0`。\n- [architecture/reading_note] - 动作：从 N 个课程任务中采样一个任务。\n  - 条件：现有文档摘取，未独立核验原始实验或论文；逐轮条件差异须下钻核实。\n  - 证据入口：`PAPER-0002/K-1e32c5cd0bd945`。\n- 按需展开：`memory.read id=PAPER-0002`。\n\n",
+      "truncated": false,
+      "budget_chars": 10000,
+      "used_chars": 2119
+    },
+    "object_id": "PAPER-0001",
+    "point_id": "K-4fab5235618cb5",
+    "evidence": {
+      "level": "evidence",
+      "id": "PAPER-0001",
+      "source_id": "S02",
+      "path": "ljh research docs/1论文/提取内容/PAPER-0001/研读材料-01.md",
+      "source_sha256": "ccb6f5e5edf42c75dc08b0112abb1dea0d5056040248dba2278dff02b3f0c6a1",
+      "start_line": 9,
+      "end_line": 9,
+      "content": "冻结/预训练教师给出 soft label；学生同时学习硬标签与被选教师的蒸馏目标。每位教师对应一个二元选择 agent，样本级动作共同决定参与蒸馏的教师集合；学生表现再作为延迟回报更新选择策略。",
+      "freshness": {
+        "state": "current",
+        "changed_sources": []
+      },
+      "writeback_required": true,
+      "budget_chars": 4000,
+      "used_chars": 478
+    }
+  },
+  "agent_semantic_writeback": {
+    "id": "PAPER-0001",
+    "changed": true,
+    "points": 12,
+    "mode": "agent_semantic",
+    "coverage": "partial",
+    "derived_views": {
+      "state": "current"
+    }
+  },
+  "automatic_extraction": "source-grounded structural excerpts; no external model called",
+  "scientific_training_started": false,
+  "status": {
+    "objects": 6,
+    "by_kind": {
+      "paper": 2,
+      "research_point": 0,
+      "experiment": 2,
+      "reproduction": 0,
+      "experience": 2
+    },
+    "stale_ids": [],
+    "pending_ids": [],
+    "views_pending": [],
+    "coverage": "registered_objects_only"
+  }
+}

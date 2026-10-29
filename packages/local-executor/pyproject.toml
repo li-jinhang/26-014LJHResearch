@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ljh-research-local"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "Independent local execution plugin for LJH Research"
+dependencies = []
+
+[project.scripts]
+ljh-research-local = "ljh_research_local.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

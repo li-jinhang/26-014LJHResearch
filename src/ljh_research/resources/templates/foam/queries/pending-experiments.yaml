@@ -1,0 +1,8 @@
+name: Pending experiments
+description: Confirmed experiments that have not started.
+filter:
+  and:
+    - jexl: "resource.properties.type == 'experiment'"
+    - jexl: "resource.properties.status == 'planned'"
+select: [title, path, properties.priority, properties.status, backlink-count]
+sort: properties.priority ASC

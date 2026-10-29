@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "global_entrypoints": [
+    "ljh-research-setup"
+  ],
+  "project_skill_slot": ".agents/skills/ljh-research",
+  "document_directory": "ljh research docs",
+  "tests": {
+    "count": 78,
+    "failures": 0,
+    "skipped": 0,
+    "seconds": 52.887,
+    "log": ".local/test-results-project-deployment.txt"
+  },
+  "validation": {
+    "global_setup": true,
+    "deployed_manual": true,
+    "deployed_auto": true,
+    "project_bound_launcher": true,
+    "neutral_wheel_install": true,
+    "legacy_migration_and_rollback": true
+  },
+  "sample_project": "D:\\_Projects\\26-014LjhResearch\\.local\\project-deployment-demo-20261029",
+  "retired_global_skills": {
+    "archive": "D:\\_Projects\\26-014LjhResearch\\archives\\global-research-skills-20261029-113802.zip",
+    "file_count": 462,
+    "includes_git": true,
+    "retired_directory": "D:\\_Projects\\26-014LjhResearch\\.local\\retired-global-skills\\20261029-113804",
+    "archive_sha256": "128c8fa1f7e61f6edd82ec2648f56d5cd3deaf7fbfd3e048b91db08d93c4207c",
+    "complete_retirement_verified": true,
+    "remaining_global_files_verified": true,
+    "git_remainder_directory": "C:\\Users\\QH\\.agents\\retired-skills\\ljh-research-git-remainder-20261029-113804"
+  },
+  "real_model_calls": false,
+  "real_scientific_training": false
+}

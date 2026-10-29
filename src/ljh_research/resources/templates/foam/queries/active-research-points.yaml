@@ -1,0 +1,8 @@
+name: Active research points
+description: Research points currently being evaluated.
+filter:
+  and:
+    - jexl: "resource.properties.type == 'research-point'"
+    - jexl: "resource.properties.status == 'active'"
+select: [title, path, properties.priority, properties.status, backlink-count]
+sort: backlink-count DESC

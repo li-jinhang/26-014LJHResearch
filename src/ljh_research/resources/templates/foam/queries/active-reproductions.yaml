@@ -1,0 +1,8 @@
+name: Active reproductions
+description: Reproduction cards still running their alignment loop.
+filter:
+  and:
+    - jexl: "resource.properties.type == 'reproduction'"
+    - jexl: "resource.properties.status == 'running'"
+select: [title, path, properties.status, properties.dataset, backlink-count]
+sort: title ASC

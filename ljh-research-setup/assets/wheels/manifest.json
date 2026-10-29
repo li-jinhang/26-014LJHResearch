@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "packages": {
+    "ljh-research-controller": {
+      "filename": "ljh_research_controller-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "4349d122a8ba3bd2fe38a3096f643b398015f909779648a847ca1402b9108ddb"
+    },
+    "ljh-research-core": {
+      "filename": "ljh_research_core-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "36b11e6f412c9acc0fb30337b848141f006dbc08bd8129662bd4df6a7c7c7a17"
+    },
+    "ljh-research-local": {
+      "filename": "ljh_research_local-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "2d9bbc93cec3a5b12144f8ca9af16e62b319a270caf4c1380edf3ca0a9d4b9d8"
+    },
+    "ljh-research-panel": {
+      "filename": "ljh_research_panel-0.1.0-py3-none-any.whl",
+      "version": "0.1.0",
+      "sha256": "7dfb2d1e9eb9c2f93bbc98876bc1bfe3b896ff85fc761aed2dab36cd1be11c68"
+    }
+  }
+}

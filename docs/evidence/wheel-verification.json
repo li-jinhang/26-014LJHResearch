@@ -1,0 +1,30 @@
+{
+  "installed_core": "D:\\_Projects\\26-014LjhResearch\\.local\\wheel-env\\Lib\\site-packages\\ljh_research\\__init__.py",
+  "neutral_working_directory": true,
+  "workspace_create_validate": true,
+  "card_resources": true,
+  "packaged_workflows": true,
+  "version_selection": true,
+  "project_local_deployment": true,
+  "canonical_document_directory": "ljh research docs",
+  "project_bound_launcher": true,
+  "layered_memory_import_search_drilldown": true,
+  "wheels": {
+    "ljh_research_controller-0.1.0-py3-none-any.whl": {
+      "file_count": 8,
+      "sha256": "2dfd1efc7269c6bd72e11b2c05cd304e8eed9f8f354cd07b7020370607ff02c5"
+    },
+    "ljh_research_core-0.1.0-py3-none-any.whl": {
+      "file_count": 100,
+      "sha256": "6f594fdd372ebe0b32e5ad8dab309ba13a725e598a5273718e26637c262551cb"
+    },
+    "ljh_research_local-0.1.0-py3-none-any.whl": {
+      "file_count": 7,
+      "sha256": "cdae1ba06f4ef25132d61dd27b3114c0c30c1f64a1a7de47389665ac3b89867a"
+    },
+    "ljh_research_panel-0.1.0-py3-none-any.whl": {
+      "file_count": 10,
+      "sha256": "32e34419132e6c1ebd46714f1763452c012e34f7aed64eaf22c5f337c18dcd99"
+    }
+  }
+}

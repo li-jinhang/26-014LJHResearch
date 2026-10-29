@@ -1,0 +1,4 @@
+interface:
+  display_name: "LJH Research Auto"
+  short_description: "围绕研究问题自动检索证据、选择实验、分析结果，并按信息收益继续或停止"
+  default_prompt: "使用 $ljh-research 在已授权范围内推进研究问题，按证据分析并决定继续、转向或停止。"

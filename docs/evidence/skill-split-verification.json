@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-29",
+  "platform": "Windows",
+  "tests": {
+    "count": 69,
+    "failed": 0,
+    "skipped": 0,
+    "log": ".local/test-results-skill-split.txt"
+  },
+  "skill_validation": {
+    "ljh-research-manual": "Skill is valid!",
+    "ljh-research-auto": "Skill is valid!",
+    "ljh-research-setup": "Skill is valid!",
+    "ljh-research": "Skill is valid!"
+  },
+  "registered_launchers": true,
+  "wheels_match_source": true,
+  "real_model_calls": false,
+  "real_scientific_training": false
+}
